@@ -1,5 +1,8 @@
-# Image Sequence Cleaner
+# Non-Destructive Image Sequence Cleaner
 Easilly clean up image sequences by sorting and mapping the sequence starting from zero.
+
+-- Nothing is deleted or renamed, the image sequence is copied to a new directory with the new names.
+
 
 Example:
 
